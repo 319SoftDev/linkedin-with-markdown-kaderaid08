@@ -1,6 +1,6 @@
 # **Ambher Aquino**
 ##### A 17 year-old _Software Development_ student at The High School of Fashion Industries
-![Ambher Aquino portrait](https://www.theslothinstitute.org/wp-content/uploads/2015/03/Unknown-5.jpeg)
+![Ambher Aquino portrait](https://github.com/user-attachments/assets/0f2369fc-4e99-4e31-8761-bdd32d12b448)
 >"If Quinn can do it, anyone can" - Ambher Aquino
 #### Qualities
 * Authentic
